@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+
+:root {
+    --cor01: #fff;
+    --cor02: #000;
+
+    --fonte01: 'Montserrat', sans-serif;
+    --fonte02: 'Roboto', sans-serif;
+}
+
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
